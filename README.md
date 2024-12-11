@@ -1,2 +1,3 @@
 Salvo Della Gatta
 Studente di Nuove Tecnologie dell'Arte all'Accademia di Belle Arti di Napoli. Dopo aver frequentato il Liceo Scientifico e aver esplorato il campo dell'economia aziendale, ho capito che la mia vera passione è nell'arte e nella musica. Oggi mi impegno a sviluppare le mie capacità creative, con l'obiettivo di unire le nuove tecnologie con l'espressione artistica. Spero che, un giorno, il mio lavoro possa portarmi a vivere di ciò che amo e a trovare soddisfazione nel combinare arte e innovazione.
+![FotoBio](https://github.com/user-attachments/assets/f8028d7b-df87-4668-9f90-251978b58ad4)
